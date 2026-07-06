@@ -3,11 +3,11 @@ const CONFIG = {
     cacheVersion: "v1",
 
     // General App Info
-    appName: "My App",
-    appShortName: "MyApp",
+    appName: "SaberIA",
+    appShortName: "SaberIA",
     
     // Iframe Config
-    iframeUrl: "https://doc-hello.streamlit.app?embed=true&show_footer=false",
+    iframeUrl: "https://icfes-app.streamlit.app/?embed=true",
     
     // Visuals & Icons
     themeColor: "#0E1117",
